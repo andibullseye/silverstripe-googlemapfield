@@ -22,9 +22,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        },
         "expose": [
             "client/css",
             "client/js"
