@@ -1,5 +1,5 @@
 {
-    "name": "betterbrief/silverstripe-googlemapfield",
+    "name": "sunnysideup/silverstripe-googlemapfield",
     "type": "silverstripe-vendormodule",
     "description": "Save locations using latitude/longitude DataObject fields.",
     "keywords": ["maps","google", "googlemapfield", "silverstripe", "map", "geolocation"],
@@ -13,8 +13,8 @@
         }
     ],
     "require": {
-        "php": ">=5.6",
-        "silverstripe/framework": "^4"
+        "php": ">=8.1",
+        "silverstripe/framework": "^4 || ^5"
     },
     "autoload": {
         "psr-4": {
